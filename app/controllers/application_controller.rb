@@ -3,6 +3,5 @@ class ApplicationController < ActionController::Base
 
   def hello
     render html: "PERFECT SOLUTIONS"
-    
   end
 end
