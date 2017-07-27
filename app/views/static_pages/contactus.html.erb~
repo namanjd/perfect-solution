@@ -371,9 +371,9 @@ table tr td
           <div class="sidebar_item">
             <!-- insert your sidebar items here -->
             <h3>Latest News</h3>
-            <h4>New Website Launched</h4>
-            <h5>June 1st, 2014</h5>
-            <p>2014 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
+            <h4>Form GSTR-1</h4>
+            <h5>July 24th, 2017</h5>
+            <p style="text-align:justify">Creation and saving of Outward Supplies Return (Form GSTR-1) are available on GST portal now. The data uploaded by Suppliers can be viewed by counter party in Form GSTR-2A.<br /><a href="https://www.gst.gov.in/newsandupdates/read/114">Read more</a></p>
           </div>
           <div class="sidebar_base"></div>
         </div>
@@ -385,7 +385,6 @@ table tr td
               <li><a href="http://incometaxindiaefiling.gov.in/">E-Filling</a></li>
               <li><a href="https://www.gst.gov.in/">GST</a></li>
               <li><a href="https://nsdl.co.in/">NSDL</a></li>
-              <li><a href="#">Link 4</a></li>
             </ul>
           </div>
           <div class="sidebar_base"></div>
@@ -406,16 +405,21 @@ table tr td
       </div>
       <div id="content">
         <!-- insert the page content here -->
-        <h1>Contact Us</h1>
-        <p>Below is an example of how a contact form might look with this template:</p>       
+        <h1><strong>Contact Us</strong></h1>
+        <p>Send any queries and your valuable feedbacks here. If any queries, please contact us. We will reach out to you as soon as possible.</p>       
           <div class="form_settings">
             <p><span>Name</span><input class="contact" type="text" name="your_name" value="" /></p>
             <p><span>Email Address</span><input class="contact" type="text" name="your_email" value="" /></p>
             <p><span>Message</span><textarea class="contact textarea" rows="8" cols="50" name="your_enquiry"></textarea></p>
-            <p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="submit" name="contact_submitted" value="submit" /></p>
+            <p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="submit" name="contact_submitted" value="Submit" /></p>
           </div>       
-        <p><br /><br />NOTE: A contact form such as this would require some way of emailing the input to an email address.</p>
       </div>
     </div>
+    <div id="content_footer"></div>
+    <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.html">Contact Us</a></p>
+      <p>Developed & Maintained by : Naman Doshi E-mail : namanatnamostute@gmail.com Ph. : 9099999749</p>
+    </div>
+  </div>
 </body>
 </html>
