@@ -406,16 +406,16 @@ table tr td
       <div id="content">
         <!-- insert the page content here -->
         <h1><strong>Our Services</strong></h1>
-        <p>We stay on the cutting edge of tax law developments, so that you don't have to. We do not believe in a <b>SET IT AND FORGET IT</b> system, our clients are our top priority. We are always striving to be better so our clients achieve more.</p>
+        <p style="text-align:justify">We stay on the cutting edge of tax law developments, so that you don't have to. We do not believe in a <b>SET IT AND FORGET IT</b> system, our clients are our top priority. We are always striving to be better so our clients achieve more.</p>
         <h2>Accounting Services</h2>
-        <p>We offer highly efficient accounting services which are provided by us for our local clients. We also offer design, implementation and review of accounting manual. Our accounting services are offered at market leading rates.</p>
+        <p style="text-align:justify">We offer highly efficient accounting services which are provided by us for our local clients. We also offer design, implementation and review of accounting manual. Our accounting services are offered at market leading rates.</p>
 	<ol><b>
 	  <li>For local clients</li>
 	  <li>Design, implementation and review of accounting manual</li>
 	  <li>Advice on various Accounting Standards, Ind AS & IFRS.</li>
 	</b></ol>
         <h2>Income Tax Services</h2>
-        <p>We specialize in providing Income tax services to individuals, small scale and medium scale businesses which are highly effective and efficient. Our range of services include preparation of returns, getting assessment done, Tds and withholding tax compliance, fringe benefit tax compliance and income tax appeals before CIT and ITAT.</p>
+        <p style="text-align:justify">We specialize in providing Income tax services to individuals, small scale and medium scale businesses which are highly effective and efficient. Our range of services include preparation of returns, getting assessment done, Tds and withholding tax compliance, fringe benefit tax compliance and income tax appeals before CIT and ITAT.</p>
         <ol><b>
 	  <li>Preparation of Income Tax Return</li>
 	  <li>Assessment of Tax Returns</li>
@@ -429,7 +429,7 @@ table tr td
 	  <li>Appearance before Investigation Wing of Income Tax Department</li>
 	</b></ol>
         <h2>Company Law Matters Consultancy</h2>
-        <p>Every company according to the India law need to register with the registrar of companies and it is also necessary with documents for various statutory requirements. We have experts having great experience in offering our clients with the company law matters consultancy. Our wide range of products include merger and acquisitions, reconstructing, maintenance and compliance of statutory records etc.</p>
+        <p style="text-align:justify">Every company according to the India law need to register with the registrar of companies and it is also necessary with documents for various statutory requirements. We have experts having great experience in offering our clients with the company law matters consultancy. Our wide range of products include merger and acquisitions, reconstructing, maintenance and compliance of statutory records etc.</p>
         <ol><b>
   	  <li>Formation of company in India, viz, Private Limited, Public Limited, wholly owned subsidiary company, One Person Company (OPC), Limited Liability Partnership (LLP), etc</li>
   	  <li>All matters related with Registrar of Companies (ROC) & Company Law Board (CLB) & Ministry of Corporate Affairs (MCA)</li>
@@ -437,7 +437,7 @@ table tr td
   	  <li>Consultancy in above matters </li>
 	</b></ol>
 	<h2>Sales Tax Consultancy & VAT Matters Consultancy</h2>
-        <p>Our clients avail from us sales tax consultancy which has proved highly beneficial for them. We also provide VAT matters consultancy which has become extremely vital in present day scenario. Our range of sales tax services include registration, filing of periodicals returns, assessment, issue of necessary forms and appeals.</p>
+        <p style="text-align:justify">Our clients avail from us sales tax consultancy which has proved highly beneficial for them. We also provide VAT matters consultancy which has become extremely vital in present day scenario. Our range of sales tax services include registration, filing of periodicals returns, assessment, issue of necessary forms and appeals.</p>
         <ol><b>
     	  <li>Registration</li>
     	  <li>Filing of periodicals returns</li>
@@ -446,7 +446,7 @@ table tr td
   	  <li>Appeals</li>
 	</b></ol>
 	<h2>Service Tax Matters Consultancy</h2>
-        <p>We have rich experience in offering service tax matters consultancy which are vital in the current scenario. Our range of services include filing of returns, maintenance of records and we also properly assess the situation of our clients. The consultancy is provided by us at market leading rates.</p>
+        <p style="text-align:justify">We have rich experience in offering service tax matters consultancy which are vital in the current scenario. Our range of services include filing of returns, maintenance of records and we also properly assess the situation of our clients. The consultancy is provided by us at market leading rates.</p>
         <ol><b>
   	  <li>Registration</li>
   	  <li>Filing of return</li>
@@ -454,7 +454,7 @@ table tr td
   	  <li>Assessment</li>
 	</b></ol>
 	<h2>Financial Services</h2>
-        <p>We have years of experience in providing business financial services to our clients. Our experts carefully analyze the current situation and accordingly prepare the project reports. Loan arrangement needs are also well taken care by us including cash credit limit, term loan and project loan. We also offer due diligence for finance and valuation of shares.</p>
+        <p style="text-align:justify">We have years of experience in providing business financial services to our clients. Our experts carefully analyze the current situation and accordingly prepare the project reports. Loan arrangement needs are also well taken care by us including cash credit limit, term loan and project loan. We also offer due diligence for finance and valuation of shares.</p>
        	<ol><b>
   	  <li>Preparation of project report</li>
   	  <li>Preparation of CMA Data</li>
@@ -463,7 +463,7 @@ table tr td
   	  <li>Valuation of shares of Company</li>
 	</b></ol>
 	<h2>Goods & Service Tax</h2>
-        <p>Goods & Service Tax Act (GST) is going to be new Law in India which will merge in itself VAT, Service Tax, Excise, Octrai, Entry Tax etc. Most likely, the GST Law will be effective from 01.04.2017. Company has to study impact of GST on its products, pricing etc. Further GST Act has to be implemented in the Company. We will guide you and provide every services relating to GST. Our separate GST Department headed by CA expert on the Law, will render all the required services.</p>
+        <p style="text-align:justify">Goods & Service Tax Act (GST) is going to be new Law in India which will merge in itself VAT, Service Tax, Excise, Octrai, Entry Tax etc. Most likely, the GST Law will be effective from 01.04.2017. Company has to study impact of GST on its products, pricing etc. Further GST Act has to be implemented in the Company. We will guide you and provide every services relating to GST. Our separate GST Department headed by CA expert on the Law, will render all the required services.</p>
         <ol><b>
   	  <li>Impact of GST on Business</li>
   	  <li>Price Fixation of product after GST Regime</li>
@@ -472,7 +472,7 @@ table tr td
   	  <li>GST Consultancy</li>
 	</b></ol>
 	<h2>Other Area of Work</h2>
-	<p>Apart from the other mentioned services, we also provide the following mentioned services:</p>
+	<p style="text-align:justify">Apart from the other mentioned services, we also provide the following mentioned services:</p>
 	<ol><b>
   	  <li>PAN & TAN</li>
   	  <li>Digitsl Signature</li>
@@ -486,7 +486,7 @@ table tr td
     </div>
     <div id="content_footer"></div>
     <div id="footer">
-      <p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.html">Contact Us</a></p>
+      <!--<p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.html">Contact Us</a></p>-->
       <p>Developed & Maintained by : Naman Doshi E-mail : namanatnamostute@gmail.com Ph. : 9099999749</p>
     </div>
   </div>
